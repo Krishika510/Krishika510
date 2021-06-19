@@ -6,10 +6,10 @@ My name is Krishika Shivnani and I'm a software developer. I'm currently pursuin
 I am always looking out to learning more and more each day and thus I love being a software developer. The ever growing software industry keeps me on my toes!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishika510&count_private=true&show_icons=true&theme=dark&border_color=white&height=300px" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishika510&count_private=true&show_icons=true&theme=dark&border_color=white" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Krishika510&count_private=true&show_icons=true&theme=dark&include_all_commits=true&border_color=white" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Krishika510&count_private=true&show_icons=true&theme=dark&include_all_commits=true&border_color=white&line_height=300px" />
   </a>
 
 <!--
