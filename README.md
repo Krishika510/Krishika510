@@ -5,7 +5,7 @@
 My name is Krishika Shivnani and I'm a software developer. I'm currently pursuing my master's in Computer Science from NC State University at Raleigh, NC. 
 I am always looking out to learning more and more each day and thus I love being a software developer. The ever growing software industry keeps me on my toes!
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishika510&count_private=true&show_icons=true&theme=dark&border_color=white&layout=compact" /><img align="center" src="https://github-readme-stats.vercel.app/api/?username=Krishika510&count_private=true&show_icons=true&theme=dark&include_all_commits=true&border_color=white" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishika510&count_private=true&show_icons=true&theme=dark&border_color=white&layout=compact&height=300px" /><img align="center" src="https://github-readme-stats.vercel.app/api/?username=Krishika510&count_private=true&show_icons=true&theme=dark&include_all_commits=true&border_color=white" />
 
 <!--
 **Krishika510/Krishika510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
