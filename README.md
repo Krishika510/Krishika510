@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/Krishika510/Krishika510/master/SDE_mov_to_gif.gif" width="300px">
 
-### Hi there 👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--
 **Krishika510/Krishika510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
