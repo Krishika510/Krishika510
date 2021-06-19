@@ -9,7 +9,7 @@ I am always looking out to learning more and more each day and thus I love being
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishika510&count_private=true&show_icons=true&theme=dark&border_color=white" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Krishika510&count_private=true&show_icons=true&theme=dark&include_all_commits=true&border_color=white&line_height=30px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Krishika510&count_private=true&show_icons=true&theme=dark&include_all_commits=true&border_color=white&line_height=20px" />
   </a>
 
 <!--
