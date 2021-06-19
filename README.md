@@ -2,6 +2,9 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+My name is Krishika Shivnani and I'm a software developer. I'm currently pursuing my master's in Computer Science from NC State University at Raleigh, NC. 
+I am always looking out to learning more and more each day and thus I love being a software developer. The ever growing software industry keeps me on my toes!
+
 <!--
 **Krishika510/Krishika510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
