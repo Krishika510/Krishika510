@@ -6,6 +6,7 @@ My name is Krishika Shivnani and I'm a software developer. I'm currently pursuin
 I am always looking out to learning more and more each day and thus I love being a software developer. The ever growing software industry keeps me on my toes!
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishika510" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Krishika510" />
 
 <!--
 **Krishika510/Krishika510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
