@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Krishika510/Krishika510/master/Software_Engineer.gif" width="30px">
+<img src="https://raw.githubusercontent.com/Krishika510/Krishika510/master/SDE_gif.mov" width="30px">
 
 ### Hi there 👋
 
